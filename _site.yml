@@ -11,7 +11,7 @@ navbar:
       href: "posts/about/index.html"
     - icon: fab fa-github
       href: https://github.com/LudovicDebehault/Ludovic_Blog
-base_url: http://LudovicDebehault.io/Ludovic_Blog/
+base_url: http://LudovicDebehault.github.io/Ludovic_Blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]
