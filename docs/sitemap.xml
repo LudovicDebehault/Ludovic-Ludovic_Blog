@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
-    <loc>http://LudovicDebehault.io/Ludovic_Blog/</loc>
+    <loc>http://LudovicDebehault.github.io/Ludovic_Blog/</loc>
     <lastmod>2020-10-08T11:14:54+02:00</lastmod>
   </url>
   <url>
-    <loc>http://LudovicDebehault.io/Ludovic_Blog/posts/2019-10-24-bacteria-antobiotics/</loc>
+    <loc>http://LudovicDebehault.github.io/Ludovic_Blog/posts/2020-10-26-gene-editing-crispr/</loc>
+    <lastmod>2020-10-26T13:42:39+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://LudovicDebehault.github.io/Ludovic_Blog/posts/2019-10-24-bacteria-antobiotics/</loc>
     <lastmod>2020-10-08T11:10:25+02:00</lastmod>
   </url>
   <url>
-    <loc>http://LudovicDebehault.io/Ludovic_Blog/posts/2019-10-25-biggest-rodent/</loc>
+    <loc>http://LudovicDebehault.github.io/Ludovic_Blog/posts/2019-10-25-biggest-rodent/</loc>
     <lastmod>2020-10-08T11:10:25+02:00</lastmod>
   </url>
   <url>
-    <loc>http://LudovicDebehault.io/Ludovic_Blog/posts/about/</loc>
+    <loc>http://LudovicDebehault.github.io/Ludovic_Blog/posts/about/</loc>
     <lastmod>2020-10-08T11:10:25+02:00</lastmod>
   </url>
   <url>
-    <loc>http://LudovicDebehault.io/Ludovic_Blog/posts/meal/</loc>
+    <loc>http://LudovicDebehault.github.io/Ludovic_Blog/posts/meal/</loc>
     <lastmod>2020-10-08T11:10:26+02:00</lastmod>
   </url>
 </urlset>

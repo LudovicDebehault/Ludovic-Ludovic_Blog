@@ -1,0 +1,49 @@
+---
+title: "Gene-editing CRISPR"
+description: |
+  Gene-editing tool Crispr used in blind US patient to attempt to restore sight.
+author:
+  - name: Ludovic Debehault
+    url: {}
+date: 10-26-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+This post is an analysis of Analysis of *Gene-editing tool Crispr used in blind US patient to attempt to restore sight.* [@ABCNews]. 
+
+[link](https//:www.abc.net.au/news/2020-03-05/gene-editing-tool-crispr-aims-to-help-blind-people-see/12028542)
+
+## Summary 
+
+This first article is an introduction to my topic, the Crispr gene-editing tool. 
+
+This article present a first attempt to cure blindness on patient who has an inherited form of blindness. This experimentation show the greats possibilities that Crispr can offer by modifying the DNA.
+
+
+## Vocabulary: 
+
+|    Words from the text   	| Synonym / explanation in English 	|
+|:-------------------------:|:--------------------------------:	|
+|    To underwent         	|       To go through             	|
+|         Gut             	|       Intestine                 	|
+|Leber congenital amaurosis |  A form of blindness cause by the |
+|Leber congenital amaurosis |          lack of a protein        |
+
+
+## Analysis table
+
+| Basic article information 	| / 	|
+|------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Researchers 	| Dr Mark Pennesi (Oregon Health and Science University)           	|
+| Published in? 	| ABC News March 5, 2020 	|
+| General topic? 	| A team of American researchers (lead by Dr Mark Pennesi) has developed an innovativemethod to potentially cure the blindness of some people.	|
+| Procedure/what was examined? 	| The method consists of injecting the Crsipr tool behind the retina through a tube at the proximity of light-sensing cells. 	|
+| Conclusions/discovery? 	|This study is a breakthrough in the research of the Crispr possibility of curing blindness people. |
+| Remaining questions? 	| None	|
+
