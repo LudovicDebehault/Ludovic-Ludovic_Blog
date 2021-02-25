@@ -15,7 +15,7 @@ base_url: http://LudovicDebehault.github.io/Ludovic_Blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]
-      #disqus: 
+      disqus: ludovic-blog
 output:
   distill::distill_article:
     css: style.css
